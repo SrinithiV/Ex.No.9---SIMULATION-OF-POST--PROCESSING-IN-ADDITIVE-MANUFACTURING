@@ -37,6 +37,7 @@
 
 ## Support Removal Process
 #### Product with Support material :
+![image](https://github.com/SrinithiV/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/118722030/d9b2638d-d06f-49d8-8961-29f151d15b89)
 Explanation : Examine the 3D printed object and look for areas where support structures were automatically generated. These structures are typically located underneath overhanging or complex parts of the model. They provide temporary support during printing to ensure successful fabrication.Take a closer look at the attachment points where the support structures connect to the main object.
 #### Container with Chemical :
 Explanation : Determine the type of support material used, such as soluble supports made from materials like polyvinyl alcohol (PVA). Understanding the support material is crucial in selecting the appropriate chemical solution for removal. Choose a chemical solution that is compatible with the support material. For water-soluble supports like PVA, water is typically used as a solvent. However, other materials may require specific solvents such as isopropyl alcohol (IPA) or proprietary solutions
