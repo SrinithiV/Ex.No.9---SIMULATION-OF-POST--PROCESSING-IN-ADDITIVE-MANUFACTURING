@@ -59,22 +59,34 @@ Explanation : After the supports have dissolved, remove the object from the chem
 
 Explanation : Depending on the desired final appearance and quality, additional surface finishing steps may be performed. This can involve techniques such as sanding, filing, or polishing the surface to remove any visible layer lines or imperfections, resulting in a smoother and more refined surface finish.
 #### UV Curing Machine :
-
+![image](https://github.com/SrinithiV/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/118722030/5f571c20-f286-4eb1-a6fa-931b8bb0962a)
 
 Explanation : UV curing can be done using a dedicated UV curing chamber or a UV light source. UV curing chambers are designed to evenly expose the printed object to UV light from all sides, ensuring consistent curing. UV light sources can range from handheld UV lamps to specialized UV curing boxes or cabinets. The choice of apparatus will depend on the size of the printed object and the specific UV curing requirements.
 #### Part in UV Curing Machine :
+![image](https://github.com/SrinithiV/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/118722030/8d41f25b-e851-453c-9c8d-1422bb04dc2b)
+
 Explanation : Place the printed object in the UV curing apparatus, ensuring it is properly positioned for uniform exposure to UV light. The curing time will depend on the resin manufacturer's guidelines and the intensity of the UV light source. Typically, exposure times can range from a few minutes to several hours. Refer to the resin manufacturer's instructions for the recommended curing duration. During the UV curing process, monitor the printed object periodically.
 #### Final Part :
+![image](https://github.com/SrinithiV/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/118722030/db32d9ae-4950-4fcb-bf78-82d2ce0512c9)
+
 Explanation : After the UV curing process is complete, some resins may require a post-curing rinse in a solvent such as isopropyl alcohol (IPA). This rinse helps to remove any uncured resin residue on the object's surface, enhancing its final appearance and reducing stickiness. After UV curing and any required rinsing, allow the printed object to air dry completely. The object is now considered cured and ready for further post-processing or use. It is advisable to store the cured object in a clean and dry environment to prevent any degradation over time.
 
 ## Heat Treatment of 3D printed part
 #### Before Heat Treatment :
+![image](https://github.com/SrinithiV/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/118722030/12f10b38-b4dd-4103-b8fb-d04ae61f3033)
+
 Explanation : Before heat treatment, the material or component is selected based on desired properties. It undergoes forming (casting, forging, etc.) and machining processes to shape it. Cleaning removes impurities, and optional annealing relieves stresses. Inspection checks for defects. Then, the material is ready for heat treatment to modify its mechanical properties.
 #### Heat Treatment Oven :
+![image](https://github.com/SrinithiV/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/118722030/c677b385-a1da-4b84-85bd-89dc6653f1b1)
+
 Explanation : A heat treatment oven is a specialized piece of equipment used to heat materials or components to specific temperatures and maintain those temperatures for a desired period of time. It provides a controlled environment for heat treatment processes such as annealing, tempering, quenching, or hardening. The oven typically has heating elements, temperature controls, insulation, and may include features like airflow or gas circulation for uniform heating.
 #### Part in Oven :
+![image](https://github.com/SrinithiV/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/118722030/07619668-ef5a-45ad-b6ab-210eeefa8e73)
+
 Explanation : When a part is placed in an oven for heat treatment, it undergoes controlled heating and cooling to modify its properties. The part's placement ensures uniform treatment, achieving desired changes in mechanical properties. After the treatment cycle, the part is cooled according to requirements.
 #### Final Part :
+![image](https://github.com/SrinithiV/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/118722030/9818400f-381b-40ee-bf07-21553e407dec)
+
 Explanation : The final part refers to the component or material after undergoing heat treatment, which modifies its properties. It exhibits improved mechanical properties, dimensional stability, surface characteristics, and material integrity. It is inspected to ensure it meets specifications and is suitable for its intended application.
 
 ## Result: 
