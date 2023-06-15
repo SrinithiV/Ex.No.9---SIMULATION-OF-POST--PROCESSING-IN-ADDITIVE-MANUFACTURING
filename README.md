@@ -40,10 +40,13 @@
 ![image](https://github.com/SrinithiV/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/118722030/d9b2638d-d06f-49d8-8961-29f151d15b89)
 Explanation : Examine the 3D printed object and look for areas where support structures were automatically generated. These structures are typically located underneath overhanging or complex parts of the model. They provide temporary support during printing to ensure successful fabrication.Take a closer look at the attachment points where the support structures connect to the main object.
 #### Container with Chemical :
+![image](https://github.com/SrinithiV/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/118722030/cb7c61b0-770b-4d76-99bc-213d51fbbba4)
 Explanation : Determine the type of support material used, such as soluble supports made from materials like polyvinyl alcohol (PVA). Understanding the support material is crucial in selecting the appropriate chemical solution for removal. Choose a chemical solution that is compatible with the support material. For water-soluble supports like PVA, water is typically used as a solvent. However, other materials may require specific solvents such as isopropyl alcohol (IPA) or proprietary solutions
 #### Product in Container :
+![image](https://github.com/SrinithiV/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/118722030/87a4fd65-8f11-4521-9e0b-7ee0e6f2d276)
 Explanation : Choose a container that is large enough to accommodate the 3D printed object and allow for complete submersion of the supports. The container should be made of a material that is compatible with the chemical solution you are using. Glass or plastic containers are commonly used for this purpose. Pour the prepared chemical solution into the container until it is sufficiently filled to fully submerge the 3D printed object. Ensure that there is enough solution to cover the support structures entirely. It is essential to work in a well-ventilated area while handling the solution to avoid inhaling any fumes or vapors.Place the 3D printed object in a container or tank filled with the prepared chemical solution. Ensure that the supports are fully submerged, allowing the solution to dissolve them effectively.
 #### Final Product :
+
 Explanation : After the supports have dissolved, remove the object from the chemical solution and thoroughly rinse it with clean water. This step helps to remove any remaining traces of the solvent or dissolved support material. It is important to ensure the object is completely dry before proceeding with further post-processing or use.
 
 ## UV Curing of 3D printed part
